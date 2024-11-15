@@ -1,0 +1,6 @@
+@Android_CRUD_app_HostAddress = http://localhost:5085
+
+GET {{Android_CRUD_app_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
