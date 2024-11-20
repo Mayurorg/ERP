@@ -1,5 +1,9 @@
 namespace Android_CRUD_app
 {
+    class Secrets
+    {
+        public static string ApiKey = "12345-ABCDE-SECRET-KEY";
+    }
     public class WeatherForecast
     {
         public DateOnly Date { get; set; }
